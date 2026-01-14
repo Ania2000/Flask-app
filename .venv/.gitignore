@@ -1,0 +1,18 @@
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Flask
+instance/
+.webassets-cache
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
