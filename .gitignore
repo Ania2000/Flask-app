@@ -1,0 +1,23 @@
+# PyCharm / IntelliJ
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Flask
+instance/
+.webassets-cache
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
