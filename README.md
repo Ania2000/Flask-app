@@ -13,6 +13,4 @@ Aplikacja umożliwia wyświetlanie listy filmów, dodawanie nowych filmów oraz 
 - Python 3.10+
 - Flask.
 
-## Instalacja
-```bash
-pip install -r requirements.txt# Flask-app
+
